@@ -1,0 +1,20 @@
+code structure:
+
+raytracing.jpg
+	implement raytracing
+		diffuse, specular, ambient
+	shadow
+	reflection
+raytracing-demo.flv
+	real time raytracing effect using CUDA
+sequential
+	implement raytracing with openmp acceleration
+	using Visual Studio to manage the project
+	ray.cpp
+		main logic
+	udray.cpp
+		helper function for raytracing
+cuda version
+	implement raytracing using CUDA
+
+

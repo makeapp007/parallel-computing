@@ -1,0 +1,17 @@
+﻿  ray.cpp
+c:\users\jason_yang\desktop\ray\ray\ray\udray.h(53): warning C4005: “NEAR”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(151): note: 参见“NEAR”的前一个定义
+c:\users\jason_yang\desktop\ray\ray\ray\udray.h(54): warning C4005: “FAR”: 宏重定义
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(150): note: 参见“FAR”的前一个定义
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(290): warning C4101: “Re”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(290): warning C4101: “N”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(290): warning C4101: “temp”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(329): warning C4101: “i”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(379): warning C4101: “N”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(380): warning C4101: “newray_dir1”: 未引用的局部变量
+c:\users\jason_yang\desktop\ray\ray\ray\ray.cpp(379): warning C4101: “temp”: 未引用的局部变量
+  ray.vcxproj -> C:\Users\Jason_Yang\Desktop\ray\ray\Debug\ray.exe
+  ray.vcxproj -> C:\Users\Jason_Yang\Desktop\ray\ray\Debug\ray.pdb (Full PDB)

@@ -1,0 +1,14 @@
+code structure:
+IMG2TXT.m
+	matlab code
+		convert image to txt
+TXT2IMG.m
+	matlab code
+		convert txt to image
+parallel.cpp
+	compile with g++
+sequential.cpp
+	compile with g++
+
+
+	
